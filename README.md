@@ -1,4 +1,4 @@
-# DHBW-Mannheim-WI2024SEA
+# DHBW Mannheim WI2024SEA
 
 ## 25.08.2025
 - https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-Erwartungen
