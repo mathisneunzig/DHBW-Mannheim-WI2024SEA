@@ -22,6 +22,6 @@ https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-OpenSourceTest
 https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-Microkernel
 
 ### Demo-Code
-https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-MVC-MVP-MVVM
-https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-Microservices
-https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-SOA
+- https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-MVC-MVP-MVVM
+- https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-Microservices
+- https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-SOA
