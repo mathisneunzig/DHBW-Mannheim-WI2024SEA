@@ -25,3 +25,8 @@ https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-Microkernel
 - https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-MVC-MVP-MVVM
 - https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-Microservices
 - https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-SOA
+
+## 19.09.2025
+
+### Aufgabe Bingo
+https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-Bingo
