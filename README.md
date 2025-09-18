@@ -30,3 +30,6 @@ https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-Microkernel
 
 ### Aufgabe Bingo
 https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-Bingo
+
+### Aufgabe API
+https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-API
