@@ -33,3 +33,8 @@ https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-Bingo
 
 ### Aufgabe API
 https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-API
+
+## 26.09.2025
+
+### Assignment Design Patterns (5 Punkte)
+https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-DesignPatterns
