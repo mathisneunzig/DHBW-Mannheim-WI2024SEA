@@ -38,3 +38,14 @@ https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-API
 
 ### Assignment Design Patterns (5 Punkte)
 https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-DesignPatterns
+
+## 17.10.2025
+
+### Demo & Übungen
+https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-CleanCode
+
+### Libraries für Bondrucker
+- Java: https://github.com/mathisneunzig/ESCPOS-Java
+- JavaScript: https://github.com/mathisneunzig/ESCPOS-JavaScript
+- TypeScript: https://github.com/mathisneunzig/ESCPOS-TypeScript
+- Python: https://github.com/mathisneunzig/ESCPOS-Python
