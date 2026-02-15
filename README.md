@@ -49,3 +49,8 @@ https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-CleanCode
 - JavaScript: https://github.com/mathisneunzig/ESCPOS-JavaScript
 - TypeScript: https://github.com/mathisneunzig/ESCPOS-TypeScript
 - Python: https://github.com/mathisneunzig/ESCPOS-Python
+
+## 15.02.2026
+
+### Assignment Events & CQRS (10 Punkte)
+https://github.com/mathisneunzig/DHBW-Mannheim-WI2024SEA-EDA-CQRS
